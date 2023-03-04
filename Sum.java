@@ -5,5 +5,7 @@ public class Sum{
         int a = 5;
         int b = 10;
         System.out.println(a+b);
+         new Sub(a,b);
+        
     }
 }
